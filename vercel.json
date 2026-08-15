@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "NODE_VERSION": "20.11.1"
+    }
+  },
+  "installCommand": "pnpm install --no-frozen-lockfile"
+}
