@@ -1,8 +1,7 @@
 [build]
-  command = "pnpm install && pnpm run build"
+  command = "pnpm install --no-frozen-lockfile && pnpm run build"
   publish = ".next"
 
 [build.environment]
   NODE_VERSION = "20.11.1"
   PNPM_VERSION = "10.30.3"
-  NPM_FLAGS = "--no-frozen-lockfile"
