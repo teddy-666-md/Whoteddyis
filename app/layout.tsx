@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Wycliffe Kibet- Creative Technologist",
   description: "Inventing tomorrow's web, one line of code at a time.",
   keywords: ["developer", "portfolio", "full-stack", "creative technologist"],
-  authors: [{ name: "John Doe" }],
+  authors: [{ name: "Wycliffe Kibet" }],
   openGraph: {
     title: "Wycliffe Kibet- Creative Technologist",
     description: "Inventing tomorrow's web, one line of code at a time.",
