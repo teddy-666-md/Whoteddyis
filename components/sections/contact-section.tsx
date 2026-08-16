@@ -149,7 +149,7 @@ export default function ContactSection() {
 
                 <div className="flex items-center gap-3">
                   <Phone className="h-5 w-5 text-green-400" />
-                  <span className="text-white/80">+254799963586</span>
+                  <span className="text-white/80">+254799963583</span>
                 </div>
 
                 <div className="flex items-center gap-3">
@@ -180,7 +180,7 @@ export default function ContactSection() {
 
                   <div className="flex flex-wrap gap-2">
                     <Badge variant="secondary" className="bg-white/10 text-white cursor-pointer hover:bg-white/20">
-                      Tell me about John's experience
+                      Tell me about kibet's experience
                     </Badge>
                     <Badge variant="secondary" className="bg-white/10 text-white cursor-pointer hover:bg-white/20">
                       What technologies does he use?
